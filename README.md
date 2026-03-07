@@ -1,16 +1,7 @@
 <h1 align="center">Arjun Poduval</h1>
 
-<p align="center">
-Software Developer
-</p>
-
 ## About Me
-Software developer with ~2 years of experience building backend systems using ASP.NET Core and Angular.
-
-Currently focusing on:
-- Cloud integrations with Azure
-- Scalable backend API architecture
-- AI applications using Azure AI Search
+Software developer with 2 years of experience building backend systems using ASP.NET Core and Angular.
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-poduval/)
