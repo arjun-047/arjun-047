@@ -1,9 +1,5 @@
 <h1 align="center">Arjun Poduval</h1>
 
-## 👋 About Me
-
-I'm a **.NET Backend Developer** focused on building APIs, integrating cloud services, and developing scalable backend systems.
-
 ### 📫 Contact
 
 * Email: **[arjunmpoduval@gmail.com](mailto:arjunmpoduval@gmail.com)**
